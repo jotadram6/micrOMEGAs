@@ -1,35 +1,25 @@
-RH neutrino (RS-inspired)
- Parameters 
- Name | Value       |> Comment                                                             <|
-EE    |0.31223      |Elementary charge (alpha=1/128.9, on-shell, MZ point, PDG96)
-alfSMZ|0.1172       |MS-bar Srtong coupling at MZ
-Q     |100          |QCD SCALE
-SW    |0.4730       |sine of the electroweak mixing angle (PDG96)
-s12   |0.221        |Parameter of C-K-M matrix  (PDG96)
-s23   |0.041        |Parameter of C-K-M matrix  (PDG96)
-s13   |0.0035       |Parameter of C-K-M matrix  (PDG96)
-Mm    |0.1057       |muon mass
-Ml    |1.777        |tau-lepton mass      (PDG96)
-Mu    |0.005        |
-Md    |0.007        |
-McMc  |1.25         | Mc(Mc) MS-bar  PDG-07
-Ms    |0.200        |s-quark mass  (pole mass, PDG96)
-MbMb  |4.20         | Mb(Mb) MS-bar value PDG-07
-Mtpole|171.4        |t-quark mass  (pole mass)
-MZ    |91.1884      |Z-boson mass         (PDG96)
-MH    |300          |higgs mass
-wtp   |1.59         |t-quark width        (tree level 1->2x)
-wZ    |2.49444      |Z-boson width        (tree level 1->2x)
-wW    |2.08895      |W-boson width        (tree level 1->2x)
-v     |246          |Higgs vev
-rc    |34.53        | Log(10^15)
-g10   |0.78         |4d  coupling
-gH    |0.           |H-lZP coupling
-gZ    |0.3          |Z-lZP coupling
-gHZ   |0.0          | factor in Z'ZH coupling
-MLZP  |100.         |n4 mass
-wn4   |0            |n4 width
-wn5   |1.           |nu_L^1 width
-cr    |-0.5         |c-parameter of the RH top quark
-Mn5   |30000.       |mass of nuL
-=============================================================================================
+Right Handed Neutrino
+ Variables 
+ Name  | Value       |>  Comment                                   <|
+EE     |0.31333      |Electromagnetic coupling constant (<->1/128)
+GG     |1.117        |Strong coupling constant (Z point)  (PDG-94)
+SW     |0.474        |sin of the Weinberg angle (PDG-94,"on-shell")
+s12    |0.221        |Parameter of C-K-M matrix (PDG-94)
+s23    |0.04         |Parameter of C-K-M matrix (PDG-94)
+s13    |0.0035       |Parameter of C-K-M matrix (PDG-94)
+gH     |0            |RHN-Higgs coupling
+gZ     |0.3          |RHN-Z coupling
+MZ     |91.187       |mass of Z boson
+wZ     |2.502        |width of Z boson
+wW     |2.094        |width of W boson
+Mm     |0.1057       |mass of muon
+Mt     |1.777        |mass of tau-lepton
+Mc     |1.3          |mass of c-quark
+Ms     |0.2          |mass of s-quark
+Mtop   |170          |mass of t-quark
+wtop   |1.442        |width of t-quark
+Mb     |4.3          |mass of b-quark
+MLZP   |100          |mass of LZP
+wn4    |0            |width of LZP
+MH     |200          |mass of Higgs
+wH     |1.461        |width of Higgs

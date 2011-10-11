@@ -1,0 +1,3 @@
+The files *_reduced were produced from the RHNM model files, deleting the additional parts of the model not related to the right neutrinos.
+
+The *1.mdl files were produced with the rhn.mdl model by lanhep.
