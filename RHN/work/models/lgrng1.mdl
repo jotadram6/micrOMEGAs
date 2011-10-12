@@ -66,7 +66,7 @@ U    |u    |G    |     |GG                                                |G(m3)
 U    |u    |Z    |     |-EE/(12*CW*SW)                                    |3*G(m3)*(1-G5)-8*SW^2*G(m3)
 W+   |W-   |Z    |     |-CW*EE/SW                                         |m2.p1*m1.m3-m3.p1*m1.m2-m1.p2*m2.m3+m3.p2*m1.m2+m1.p3*m2.m3-m2.p3*m1.m3
 ~N4  |~n4  |H    |     |gH                                                |1
-~N4  |~n4  |Z    |     |gZ/2                                              |G(m3)*(1+G5)
+~N4  |~n4  |Z    |     |EE*gZ/2                                           |G(m3)*(1+G5)
 A    |A    |W+   |W-   |-EE^2                                             |2*m1.m2*m3.m4-m1.m3*m2.m4-m1.m4*m2.m3
 A    |W+   |W-   |Z    |-CW*EE^2/SW                                       |2*m1.m4*m2.m3-m1.m2*m3.m4-m1.m3*m2.m4
 G    |G    |G.t  |     |GG*Sqrt2/2                                        |m1.m3*m2.M3-m1.M3*m2.m3
