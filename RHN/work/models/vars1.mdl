@@ -9,6 +9,7 @@ s23    |0.04         |Parameter of C-K-M matrix (PDG-94)
 s13    |0.0035       |Parameter of C-K-M matrix (PDG-94)
 gH     |0            |RHN-Higgs coupling
 gZ     |0.3          |RHN-Z coupling
+gW     |0.1          |RHN-W coupling
 MZ     |91.187       |mass of Z boson
 wZ     |2.502        |width of Z boson
 wW     |2.094        |width of W boson
