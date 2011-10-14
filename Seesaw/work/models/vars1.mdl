@@ -19,23 +19,23 @@ wtop   |1.442        |width of t-quark
 Mb     |4.3          |mass of b-quark
 MH     |130          |mass of Higgs
 wH     |1.461        |width of Higgs
-MH1    |200          |mass of Charged Higgs
+MH1    |280          |mass of Charged Higgs
 whc    |1            |width of Charged Higgs
-MA0    |125.673      |mass of A0 Scalar
+MA0    |280          |mass of A0 Scalar
 wA0    |1            |width of A0 Scalar
-MH0    |125.673      |mass of H0 Scalar
+MH0    |280          |mass of H0 Scalar
 wH0    |1            |width of H0 Scalar
-La2    |3            |autointeraction
+La2    |0.5          |autointeraction
 LaL    |-0.4         |MH0 lambda
-h11    |0.5          |yuk matrix element
-h12    |0.5          |yuk matrix element
-h13    |0.5          |yuk matrix element
-h21    |0.5          |yuk matrix element
-h22    |0.5          |yuk matrix element
-h23    |0.5          |yuk matrix element
-h31    |0.5          |yuk matrix element
-h32    |0.5          |yuk matrix element
-h33    |0.5          |yuk matrix element
+h11    |0.3          |yuk matrix element
+h12    |0.0          |yuk matrix element
+h13    |0.0          |yuk matrix element
+h21    |0.9539       |yuk matrix element
+h22    |0.0          |yuk matrix element
+h23    |0.0          |yuk matrix element
+h31    |0.0          |yuk matrix element
+h32    |0.0          |yuk matrix element
+h33    |0.0          |yuk matrix element
 MN1    |100          |mass of re-neutrino
 wn1    |0            |width of re-neutrino
 MN2    |200          |mass of rm-neutrino
