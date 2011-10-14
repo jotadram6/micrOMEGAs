@@ -12,11 +12,13 @@ wZ     |2.502        |width of Z boson
 wW     |2.094        |width of W boson
 Mm     |0.1057       |mass of muon
 Mt     |1.777        |mass of tau-lepton
+Mup    |0.003        |mass of u-quark
+Mdo    |0.006        |mass of d-quark
 Mc     |0.829        |mass of c-quark
 Ms     |0.2          |mass of s-quark
 Mtop   |170          |mass of t-quark
 wtop   |1.442        |width of t-quark
-Mb     |4.3          |mass of b-quark
+Mb     |3.01         |mass of b-quark
 MH     |130          |mass of Higgs
 wH     |1.461        |width of Higgs
 MH1    |280          |mass of Charged Higgs
@@ -28,14 +30,14 @@ wH0    |1            |width of H0 Scalar
 La2    |0.5          |autointeraction
 LaL    |-0.4         |MH0 lambda
 h11    |0.3          |yuk matrix element
-h12    |0.0          |yuk matrix element
-h13    |0.0          |yuk matrix element
+h12    |0            |yuk matrix element
+h13    |0            |yuk matrix element
 h21    |0.9539       |yuk matrix element
-h22    |0.0          |yuk matrix element
-h23    |0.0          |yuk matrix element
-h31    |0.0          |yuk matrix element
-h32    |0.0          |yuk matrix element
-h33    |0.0          |yuk matrix element
+h22    |0            |yuk matrix element
+h23    |0            |yuk matrix element
+h31    |0            |yuk matrix element
+h32    |0            |yuk matrix element
+h33    |0            |yuk matrix element
 MN1    |100          |mass of re-neutrino
 wn1    |0            |width of re-neutrino
 MN2    |200          |mass of rm-neutrino

@@ -103,7 +103,6 @@ Z    |~H+  |~H-  |     |EE/(2*CW*SW)                                      |m1.p3
 ~N1  |n2   |~H0  |     |-Sqrt2*h21/2                                      |1
 ~N1  |n3   |~A0  |     |-i*Sqrt2*h31/2                                    |1
 ~N1  |n3   |~H0  |     |-Sqrt2*h31/2                                      |1
-~N1  |~n1  |Z    |     |EE/(4*CW*SW)                                      |G(m3)*(1+G5)
 ~N2  |e2   |~H+  |     |1                                                 |h12+h22+h32
 ~N2  |n1   |~A0  |     |-i*Sqrt2*h12/2                                    |1
 ~N2  |n1   |~H0  |     |-Sqrt2*h12/2                                      |1
@@ -111,7 +110,6 @@ Z    |~H+  |~H-  |     |EE/(2*CW*SW)                                      |m1.p3
 ~N2  |n2   |~H0  |     |-Sqrt2*h22/2                                      |1
 ~N2  |n3   |~A0  |     |-i*Sqrt2*h32/2                                    |1
 ~N2  |n3   |~H0  |     |-Sqrt2*h32/2                                      |1
-~N2  |~n2  |Z    |     |EE/(4*CW*SW)                                      |G(m3)*(1+G5)
 ~N3  |e3   |~H+  |     |1                                                 |h13+h23+h33
 ~N3  |n1   |~A0  |     |-i*Sqrt2*h13/2                                    |1
 ~N3  |n1   |~H0  |     |-Sqrt2*h13/2                                      |1
@@ -119,7 +117,6 @@ Z    |~H+  |~H-  |     |EE/(2*CW*SW)                                      |m1.p3
 ~N3  |n2   |~H0  |     |-Sqrt2*h23/2                                      |1
 ~N3  |n3   |~A0  |     |-i*Sqrt2*h33/2                                    |1
 ~N3  |n3   |~H0  |     |-Sqrt2*h33/2                                      |1
-~N3  |~n3  |Z    |     |EE/(4*CW*SW)                                      |G(m3)*(1+G5)
 A    |A    |W+   |W-   |-EE^2                                             |2*m1.m2*m3.m4-m1.m3*m2.m4-m1.m4*m2.m3
 A    |A    |~H+  |~H-  |2*EE^2                                            |m1.m2
 A    |W+   |W-   |Z    |-CW*EE^2/SW                                       |2*m1.m4*m2.m3-m1.m2*m3.m4-m1.m3*m2.m4
