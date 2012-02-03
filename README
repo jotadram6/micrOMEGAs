@@ -1,3 +1,4 @@
+TODO: Official radiative seesaw in Seesaw branch, seesaw directory. Clean unnecessary dirs there. 
 !   We use 'gmake' options in our Makefiles. If you do not have 'gmake' 
 !   then more likely your  'make'  is identical to 'gmake'.
 
