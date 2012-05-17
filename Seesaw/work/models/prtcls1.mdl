@@ -19,8 +19,8 @@ t-quark      |t  |T   |6       |1    |Mtop|wtop |3    |   |t                 |\b
 b-quark      |b  |B   |5       |1    |Mb  |0    |3    |   |b                 |\bar{b}            |
 Higgs        |H  |H   |37      |0    |MH  |wH   |1    |   |H                 |H                  |
 Charged Higgs|~H+|~H- |37      |0    |MH1 |whc  |1    |   |(H+)              |(H-)               |
-A0 Scalar    |~A0|~A0 |35      |0    |MA0 |wA0  |1    |   |(A0)              |(A0)               |
-H0 Scalar    |~H0|~H0 |36      |0    |MH0 |wH0  |1    |   |(H0)              |(H0)               |
-re-neutrino  |~n1|~N1 |9900012 |1    |MN1 |wn1  |1    |   |(n1)              |(N1)               |
-rm-neutrino  |~n2|~N2 |9900014 |1    |MN2 |wn2  |1    |   |(n2)              |(N2)               |
-rt-neutrino  |~n3|~N3 |9900016 |1    |MN3 |wn3  |1    |   |(n3)              |(N3)               |
+A0 Scalar    |~A0|~A0 |36      |0    |MA0 |wA0  |1    |   |(A0)              |(A0)               |
+H0 Scalar    |~H0|~H0 |35      |0    |MH0 |wH0  |1    |   |(H0)              |(H0)               |
+re-neutrino  |~n1|~n1 |9900012 |1    |MN1 |wn1  |1    |   |(n1)              |(n1)               |
+rm-neutrino  |~n2|~n2 |9900014 |1    |MN2 |wn2  |1    |   |(n2)              |(n2)               |
+rt-neutrino  |~n3|~n3 |9900016 |1    |MN3 |wn3  |1    |   |(n3)              |(n3)               |

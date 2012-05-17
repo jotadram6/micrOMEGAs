@@ -29,16 +29,25 @@ MH0    |280          |mass of H0 Scalar
 wH0    |1            |width of H0 Scalar
 La2    |0.5          |autointeraction
 LaL    |-0.4         |MH0 lambda
-h11    |0.3          |yuk matrix element
-h12    |0            |yuk matrix element
-h13    |0            |yuk matrix element
-h21    |0.9539       |yuk matrix element
-h22    |0            |yuk matrix element
-h23    |0            |yuk matrix element
-h31    |0            |yuk matrix element
-h32    |0            |yuk matrix element
-h33    |0            |yuk matrix element
-MN1    |100          |mass of re-neutrino
+h11R   |1            |Real part yuk matrix element
+h12R   |1            |Real part yuk matrix element
+h13R   |1            |Real part yuk matrix element
+h21R   |1            |Real part yuk matrix element
+h22R   |1            |Real part yuk matrix element
+h23R   |1            |Real part yuk matrix element
+h31R   |1            |Real part yuk matrix element
+h32R   |1            |Real part yuk matrix element
+h33R   |1            |Real part yuk matrix element
+h11I   |1            |Imag part yuk matrix element
+h12I   |1            |Imag part yuk matrix element
+h13I   |1            |Imag part yuk matrix element
+h21I   |1            |Imag part yuk matrix element
+h22I   |1            |Imag part yuk matrix element
+h23I   |1            |Imag part yuk matrix element
+h31I   |1            |Imag part yuk matrix element
+h32I   |1            |Imag part yuk matrix element
+h33I   |1            |Imag part yuk matrix element
+MN1    |110          |mass of re-neutrino
 wn1    |0            |width of re-neutrino
 MN2    |200          |mass of rm-neutrino
 wn2    |0            |width of rm-neutrino
