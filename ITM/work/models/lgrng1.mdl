@@ -84,10 +84,12 @@ H    |H    |Z    |Z    |EE^2/(2*CW^2*SW^2)                                |m3.m4
 H    |H    |~T+  |~T-  |-2*La3                                            |1
 H    |H    |~T0  |~T0  |-2*La3                                            |1
 W+   |W+   |W-   |W-   |EE^2/SW^2                                         |2*m1.m2*m3.m4-m1.m4*m2.m3-m1.m3*m2.m4
+W+   |W+   |~T-  |~T-  |-4*EE^2/SW^2                                      |m1.m2
 W+   |W-   |Z    |Z    |-CW^2*EE^2/SW^2                                   |2*m1.m2*m3.m4-m1.m3*m2.m4-m1.m4*m2.m3
 W+   |W-   |~T+  |~T-  |2*EE^2/SW^2                                       |m1.m2
 W+   |W-   |~T0  |~T0  |4*EE^2/SW^2                                       |m1.m2
 W+   |Z    |~T-  |~T0  |2*CW*EE^2/SW^2                                    |m1.m2
+W-   |W-   |~T+  |~T+  |-4*EE^2/SW^2                                      |m1.m2
 W-   |Z    |~T+  |~T0  |2*CW*EE^2/SW^2                                    |m1.m2
 Z    |Z    |~T+  |~T-  |4*CW^2*EE^2/SW^2                                  |m1.m2
 ~T+  |~T+  |~T-  |~T-  |-16*La2                                           |1

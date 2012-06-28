@@ -1,0 +1,21 @@
+#Model 1
+#ForceUG 0
+#nIn 2
+#nOut 2
+#Process ~T0,~T+ -> A,W+
+#nTot 4
+*~T0=~T0
+*~T+=~T+
+*A=A
+*W+=W+
+#Remove_Virtual 
+#Remove_X 
+#nSubproc(ampl) 1
+#nSubproc(squared) 1
+#ConservationLow 1
+#Nc==inf  0
+#NoColorChains 0
+#NoDiagrams  0
+#T-widths    0
+#NewCodes  0
+#ExitCode 5

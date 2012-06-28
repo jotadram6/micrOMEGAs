@@ -21,9 +21,9 @@ wtop   |1.442        |width of t-quark
 Mb     |3.01         |mass of b-quark
 MH     |130          |mass of Higgs
 wH     |1.461        |width of Higgs
-MTc    |200          |mass of Charged Higgs
+MTc    |266          |mass of Charged Higgs
 wTc    |1            |width of Charged Higgs
-MT0    |125.673      |mass of T0 Scalar
+MT0    |100          |mass of T0 Scalar
 wT0    |1            |width of T0 Scalar
 La2    |3            |autointeraction
 La3    |-0.4         |H-T interaction lambda

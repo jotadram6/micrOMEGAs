@@ -6,9 +6,9 @@ import sys
 
 if  __name__=='__main__':
     La3=linspace(-20,20,40)
-    Mmin=6000
-    Mmax=8000
-    Mpts=20
+    Mmin=210
+    Mmax=6000
+    Mpts=100
     MT0=linspace(Mmin,Mmax,Mpts)
     ForSaving=[]
     kk=0
