@@ -5,7 +5,7 @@ import DM_tasks
 import sys
 
 if  __name__=='__main__':
-    La3=linspace(-20,20,40)
+    La3=logspace(-3,1,100)
     Mmin=210
     Mmax=6000
     Mpts=100
@@ -15,7 +15,8 @@ if  __name__=='__main__':
     for j in xrange(len(La3)):
         for i in xrange(len(MT0)):
             relic=DM_tasks.OMEGA(La3[j],MT0[i],MT0[i]+166)
-            if kk%10==0: print relic
+            if relic<0.12 and relic>0.09: print relic, "MT0", MT0[i], "La3", La3[j] 
+            #if kk%10==0: print relic
             ForSaving.append([MT0[i],MT0[i]+166,La3[j],relic])
             kk=kk+1
             #if kk==10:
@@ -45,5 +46,5 @@ if  __name__=='__main__':
     ax1.set_xlabel(r'$M_{T_{0}}$',size='x-large')
     ax1.set_ylabel(r'$log(|\lambda_{3}|)$',size='x-large')
     fig.savefig('First_Spread')
-    #show()
+    show()
     print 'Finish'
